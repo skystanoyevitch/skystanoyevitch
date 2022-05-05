@@ -41,13 +41,13 @@ I have had a Passion for solving problems through coding since 2009, started pro
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/RolyPolie"><img src="https://github-readme-stats.vercel.app/api?username=RolyPolie&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=0f172a&hide_border=true&show_icons=true" alt="RolyPolie's GitHub stats" /></a>
+<a href="http://www.github.com/skystanoyevitch"><img src="https://github-readme-stats.vercel.app/api?username=RolyPolie&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=0f172a&hide_border=true&show_icons=true" alt="RolyPolie's GitHub stats" /></a>
 
-<a href="http://www.github.com/RolyPolie"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RolyPolie&stroke=ffffff&background=0f172a&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/skystanoyevitch"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RolyPolie&stroke=ffffff&background=0f172a&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/RolyPolie"><img src="https://activity-graph.herokuapp.com/graph?username=RolyPolie&bg_color=0f172a&color=ffffff&line=ec4899&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/skystanoyevitch"><img src="https://activity-graph.herokuapp.com/graph?username=RolyPolie&bg_color=0f172a&color=ffffff&line=ec4899&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/RolyPolie" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RolyPolie&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/skystanoyevitch" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RolyPolie&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Support Me
 
