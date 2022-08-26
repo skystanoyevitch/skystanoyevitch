@@ -2,7 +2,7 @@
 Hi 👋 My name is Sky Stanoyevitch
 =================================
 
-Front-End Web Developer
+Web Developer
 -----------------------
 
 I have had a Passion for solving problems through coding since 2009, started programming professionally in 2018 and love learning and adapting to all things tech.
