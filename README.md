@@ -7,10 +7,10 @@ Web Developer
 I have had a Passion for solving problems through coding since 2009, started programming professionally in 2018 and love learning and adapting to all things tech.
 
 * 🌍  I'm based in San Diego, CA
-* 🖥️  See my portfolio at [skystanoyevitch.com](http://skystanoyevitch.com)
+* 🖥️  See my website at [skystanoyevitch.com](http://skystanoyevitch.com)
 * ✉️  You can contact me at [webdesign@skystanoyevitch.com](mailto:webdesign@skystanoyevitch.com)
-* 🧠  I'm learning React | Next.JS | GraphQL
-* 🤝  I'm open to collaborating on Interesting Projects, apps, websites or anything that shares the same passion for the art of coding
+* 🧠  I'm learning NodeJS and Databases
+* 🤝  I'm open to collaborating or working on a project together.
 
 ### Skills
 
