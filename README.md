@@ -1,5 +1,4 @@
-### Hi there 👋
-Hi 👋 My name is Sky Stanoyevitch
+Sky Stanoyevitch
 =================================
 
 Web Developer
