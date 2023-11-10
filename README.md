@@ -4,13 +4,8 @@ Sky Stanoyevitch
 Web Developer
 -----------------------
 
-I have had a Passion for solving problems through coding since 2009, started programming professionally in 2018 and love learning and adapting to all things tech.
-
-* 🌍  I'm based in San Diego, CA
-* 🖥️  See my website at [skystanoyevitch.com](http://skystanoyevitch.com)
-* ✉️  You can contact me at [webdesign@skystanoyevitch.com](mailto:webdesign@skystanoyevitch.com)
-* 🧠  I'm learning NodeJS and Databases
-* 🤝  I'm open to collaborating or working on a project together.
+* 🌍  San Diego, CA
+* 🖥️  [skystanoyevitch.com](http://skystanoyevitch.com)
 
 ### Skills
 
@@ -31,21 +26,3 @@ I have had a Passion for solving problems through coding since 2009, started pro
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/skystanoyevitch" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://twitter.com/Sky_webdev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/skystanoyevitch"><img src="https://github-readme-stats.vercel.app/api?username=skystanoyevitch&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=0f172a&hide_border=true&show_icons=true" alt="RolyPolie's GitHub stats" /></a>
-
-<a href="http://www.github.com/skystanoyevitch"><img src="https://github-readme-streak-stats.herokuapp.com/?user=skystanoyevitch&stroke=ffffff&background=0f172a&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/skystanoyevitch" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skystanoyevitch&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/skystanoyevitch"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
