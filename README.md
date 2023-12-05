@@ -1,7 +1,7 @@
 Sky Stanoyevitch
 =================================
 
-Web Developer
+Software Developer
 -----------------------
 
 * 🌍  San Diego, CA
