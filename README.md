@@ -1,7 +1,7 @@
 Sky Stanoyevitch
 =================================
 
-Software Engineer
+Full-Stack Software Engineer and Tech Enthusiest
 -----------------------
 
 * 🌍  San Diego, CA
