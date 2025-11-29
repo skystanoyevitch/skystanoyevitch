@@ -1,7 +1,7 @@
 Sky S.
 =================================
 
-Full-Stack Software Engineer and Tech Enthusiest
+Programmer and Tech Enthusiest
 -----------------------
 
 * San Diego, CA
