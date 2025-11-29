@@ -1,9 +1,9 @@
-Sky Stanoyevitch
+Sky S.
 =================================
 
 Full-Stack Software Engineer and Tech Enthusiest
 -----------------------
 
-* 🌍  San Diego, CA
-* 🖥️  Portfolio - [www.skystanoyevitch.com](http://skystanoyevitch.com)
+* San Diego, CA
+* Portfolio -> [www.skystanoyevitch.com](http://skystanoyevitch.com)
 
