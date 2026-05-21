@@ -1,7 +1,7 @@
 Sky S.
 =================================
 
-Programmer and Tech Enthusiest
+Software Engineer and Tech Enthusiest
 -----------------------
 
 * San Diego, CA
